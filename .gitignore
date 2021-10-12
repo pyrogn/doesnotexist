@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+acea-water-prediction/
+spotify/count_genres_by_year.csv
+spotify/full_data_w_genres.csv
